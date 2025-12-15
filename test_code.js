@@ -21,5 +21,6 @@ database.execute(query)
 process([
 {name:"Amit",age:20},
 {name:"Ravi",age:17},
-{name:"Neha",age:25}
+{name:"Neha",age:25},
+{name: "HP", age:22}
 ])
